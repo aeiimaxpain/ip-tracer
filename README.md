@@ -1,5 +1,5 @@
 
-# IP-INTEL 🛰️  
+# IP-Tracer 🛰️  
 **Ethical IP Intelligence Tool (OSINT-Only)**
 
 A production-ready Python tool for collecting **ethical, open-source intelligence (OSINT)** about an IP address or domain.  
